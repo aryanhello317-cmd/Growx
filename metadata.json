@@ -1,0 +1,6 @@
+{
+  "name": "BuildX",
+  "description": "Offline-first calisthenics & fitness app featuring 90-Day Winter Arc, camera push-up counter, rank progression, and nutrition planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
